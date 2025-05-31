@@ -1,7 +1,5 @@
 # Customer Segmentation using K-Means Clustering
 
-![K-Means Clustering Visualization](https://i.imgur.com/JgV4DlA.png)
-
 ## Overview
 This project demonstrates customer segmentation using the K-Means clustering algorithm on mall customer data. The analysis groups customers based on their annual income and spending score to identify distinct customer segments that can inform marketing strategies.
 
